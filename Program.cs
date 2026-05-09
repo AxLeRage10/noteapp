@@ -397,6 +397,7 @@ namespace NoteApp
                 PrintCmd("--watchdog --status",                          "Метрики CPU / RAM / HDD");
                 if (user.Role == UserRole.Admin)
                     PrintCmd("--watchdog --set-threshold --cpu N --ram N --hdd N", "Настроить пороги");
+                PrintCmd("--logs --type watchdog", "Журнал watchdog");
             }
 
             if (user.Role == UserRole.Admin)
