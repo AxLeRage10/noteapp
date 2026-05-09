@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\watchdogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:watchdogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|c:\\users\\axle_rage10\\desktop\\noteapp\\updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01533841-45CA-2243-2D8F-CA26280867A8}|NoteApp.csproj|solutionrelative:updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "NoteRepository.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\NoteRepository.cs",
+              "RelativeToolTip": "NoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:01:06.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:01:04.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:00:57.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthService.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\AuthService.cs",
+              "RelativeToolTip": "AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:00:56.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppLogger.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\AppLogger.cs",
+              "RelativeDocumentMoniker": "AppLogger.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\AppLogger.cs",
+              "RelativeToolTip": "AppLogger.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:00:50.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WatchdogService.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\WatchdogService.cs",
+              "RelativeDocumentMoniker": "WatchdogService.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\WatchdogService.cs",
+              "RelativeToolTip": "WatchdogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:38:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\Validator.cs",
+              "RelativeDocumentMoniker": "Validator.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\Validator.cs",
+              "RelativeToolTip": "Validator.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:38:38.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserRepository.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\UserRepository.cs",
+              "RelativeToolTip": "UserRepository.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:38:25.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAmwG4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:10:50.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\UserManagementService.cs",
+              "RelativeDocumentMoniker": "UserManagementService.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\UserManagementService.cs",
+              "RelativeToolTip": "UserManagementService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:38:13.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\UpdateService.cs",
+              "RelativeDocumentMoniker": "UpdateService.cs",
+              "ToolTip": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\UpdateService.cs",
+              "RelativeToolTip": "UpdateService.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:37:52.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

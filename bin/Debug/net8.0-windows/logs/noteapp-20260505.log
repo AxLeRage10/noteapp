@@ -1,0 +1,5 @@
+2026-05-05 21:07:14 [FATL] [] [fatal] Критическая ошибка
+System.InvalidOperationException: Не задана переменная окружения: NOTEAPP_DB_HOST
+   at NoteApp.Infrastructure.DatabaseFactory.GetEnv(String key, String defaultValue) in C:\Users\AxLe_Rage10\Desktop\NoteApp\Database.cs:line 54
+   at NoteApp.Infrastructure.DatabaseFactory..ctor() in C:\Users\AxLe_Rage10\Desktop\NoteApp\Database.cs:line 17
+   at NoteApp.Program.Main(String[] args) in C:\Users\AxLe_Rage10\Desktop\NoteApp\Program.cs:line 30

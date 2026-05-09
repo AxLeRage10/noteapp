@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "NKnH6wW1yd8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AxLe_Rage10\\Desktop\\NoteApp\\NoteApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\dotenv.net\\3.1.3\\dotenv.net.3.1.3.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.7\\system.configuration.configurationmanager.10.0.7.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.7\\system.diagnostics.eventlog.10.0.7.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.7\\system.diagnostics.performancecounter.10.0.7.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.7\\system.security.cryptography.protecteddata.10.0.7.nupkg.sha512",
+    "C:\\Users\\AxLe_Rage10\\.nuget\\packages\\system.threading.accesscontrol\\10.0.7\\system.threading.accesscontrol.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

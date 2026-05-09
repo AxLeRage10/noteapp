@@ -1,0 +1,24 @@
+# Артефакты сборки .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Конфигурация с секретами — НИКОГДА не коммитить!
+.env
+session.dat
+
+# Журналы
+logs/
+
+# Временные файлы
+*.tmp
+*.bak
+*.log
+
+# Rider / JetBrains
+.idea/
+
+# macOS
+.DS_Store
