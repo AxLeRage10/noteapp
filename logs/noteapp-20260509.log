@@ -11,3 +11,9 @@ System.IO.IOException: The process cannot access the file 'C:\Users\AxLe_Rage10\
    at NoteApp.Program.RunInteractive() in C:\Users\AxLe_Rage10\Desktop\NoteApp\Program.cs:line 150
    at NoteApp.Program.Main(String[] args) in C:\Users\AxLe_Rage10\Desktop\NoteApp\Program.cs:line 45
 2026-05-09 16:23:02 [INFO] [] [auth] Успешный вход: admin [Admin]
+2026-05-09 16:55:42 [INFO] [] [auth] Успешный вход: admin [Admin]
+2026-05-09 16:55:48 [INFO] [] [update] GitHub API недоступен: Response status code does not indicate success: 404 (Not Found).
+2026-05-09 16:55:48 [INFO] [] [update] Сервер обновлений недоступен или нет релизов.
+2026-05-09 16:57:56 [INFO] [] [update] GitHub API недоступен: Response status code does not indicate success: 404 (Not Found).
+2026-05-09 16:57:56 [INFO] [] [update] Сервер обновлений недоступен или нет релизов.
+2026-05-09 17:02:54 [INFO] [] [update] Обновление 1.1.0 успешно установлено.
