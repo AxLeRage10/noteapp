@@ -364,8 +364,8 @@ namespace NoteApp
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine();
             Console.WriteLine("  ╔══════════════════════════════════════════════╗");
-            Console.WriteLine("  ║       NoteApp v1.0 — Система заметок         ║");
-            Console.WriteLine("  ║       VPN-инфраструктура / Windows            ║");
+            Console.WriteLine("  ║       NoteApp v1.1 — Система заметок         ║");
+            Console.WriteLine("  ║       VPN-инфраструктура / Windows           ║");
             Console.WriteLine("  ╚══════════════════════════════════════════════╝");
             Console.ResetColor();
             Console.WriteLine();
