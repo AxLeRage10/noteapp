@@ -1,5 +1,0 @@
-C:\Users\AxLe_Rage10\Desktop\NoteApp\obj\Debug\net8.0\NoteApp.csproj.AssemblyReference.cache
-C:\Users\AxLe_Rage10\Desktop\NoteApp\obj\Debug\net8.0\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\AxLe_Rage10\Desktop\NoteApp\obj\Debug\net8.0\NoteApp.AssemblyInfoInputs.cache
-C:\Users\AxLe_Rage10\Desktop\NoteApp\obj\Debug\net8.0\NoteApp.AssemblyInfo.cs
-C:\Users\AxLe_Rage10\Desktop\NoteApp\obj\Debug\net8.0\NoteApp.csproj.CoreCompileInputs.cache
