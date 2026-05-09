@@ -6,19 +6,12 @@ namespace NoteApp.Core
     {
         private const int MaxLength = 500;
 
-        // Кириллица U+0400-U+04FF, цифры, пробелы, знаки препинания
-        private static readonly Regex RussianRegex = new(
-            @"^[\u0400-\u04FF0-9\s.,!?:;\-\u2014\u00AB\u00BB()\r\n]+$",
-            RegexOptions.Compiled);
-
         public static (bool IsValid, string Error) Validate(string? text)
         {
             if (string.IsNullOrWhiteSpace(text))
                 return (false, "Текст заметки не может быть пустым.");
             if (text.Length > MaxLength)
                 return (false, $"Текст заметки превышает {MaxLength} символов (текущая длина: {text.Length}).");
-            if (!RussianRegex.IsMatch(text))
-                return (false, "Текст должен содержать только символы русского языка.");
             return (true, string.Empty);
         }
     }
