@@ -321,11 +321,17 @@ namespace NoteApp
                 if (System.IO.File.Exists(logFile))
                 {
                     var lines = ReadLogFile(logFile);
-                    int start = Math.Max(0, lines.Length - limit);
+                    // Фильтрация по типу если указан
+                    var filtered = type == "all"
+                        ? lines
+                        : lines.Where(l => l.Contains($"[{type}]")).ToArray();
+                    int start = Math.Max(0, filtered.Length - limit);
                     Console.WriteLine($"\n  Файл: {logFile}");
-                    Console.WriteLine($"  Последние {Math.Min(limit, lines.Length)} записей:\n");
-                    for (int i = start; i < lines.Length; i++)
-                        Console.WriteLine("  " + lines[i]);
+                    Console.WriteLine($"  Тип: {type}. Последние {Math.Min(limit, filtered.Length)} записей:\n");
+                    for (int i = start; i < filtered.Length; i++)
+                        Console.WriteLine("  " + filtered[i]);
+                    if (filtered.Length == 0)
+                        Console.WriteLine($"  Записей типа [{type}] не найдено.");
                 }
                 else PrintResult(false, $"Файл журнала не найден: {logFile}");
                 return true;
